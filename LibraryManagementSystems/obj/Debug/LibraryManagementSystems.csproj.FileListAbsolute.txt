@@ -1,0 +1,14 @@
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\bin\Debug\LibraryManagementSystems.exe.config
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\bin\Debug\LibraryManagementSystems.exe
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\bin\Debug\LibraryManagementSystems.pdb
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.csproj.AssemblyReference.cache
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.Form1.resources
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.Properties.Resources.resources
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.csproj.GenerateResource.cache
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.csproj.CoreCompileInputs.cache
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryM.01530603.Up2Date
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.exe
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.pdb
+E:\LMsystem\LibraryManagementSystems\LibraryManagementSystems\obj\Debug\LibraryManagementSystems.AdminLogin.resources
